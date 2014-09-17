@@ -1,4 +1,0 @@
-tampax
-======
-
-un projet jetable
